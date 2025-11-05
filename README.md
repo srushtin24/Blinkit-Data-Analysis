@@ -17,7 +17,7 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Donut Chart
 
-![Total Sales by Fat Content](charts/Total_Sales_by_Fat_Content.png)
+<img src="charts/Total_Sales_by_Fat_Content.png" width="450">
 
 2] **Total Sales by Item Type:**
 - Objective: Identify the performance of different item types in terms of total sales.
