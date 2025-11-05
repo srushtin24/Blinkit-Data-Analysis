@@ -3,7 +3,7 @@
 This project involved performing an in-depth analysis of Blinkit’s sales dataset to evaluate product performance, outlet characteristics, and customer purchasing behavior. The workflow included comprehensive data cleaning, exploratory data analysis (EDA), KPI computation, and development of visual insights to support data-driven business decision-making.<br><br>
 
 
-#### ***KPI Metrics***
+***KPI Metrics***
 1. Total Sales: The overall revenue generated from all items sold.
 2. Average Sales: The average revenue per sale.
 3. Number of Items: The total count of different items sold.
@@ -12,7 +12,7 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 
 ***Visualizations***
 
-1] **Total Sales by Fat Content:**
+## 1] **Total Sales by Fat Content:**
 - Objective: Analyze the impact of fat content on total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Donut Chart/ Pie Chart
