@@ -15,7 +15,7 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 1] **Total Sales by Fat Content:**
 - Objective: Analyze the impact of fat content on total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-- Chart Type: Donut Chart
+- Chart Type: Donut Chart/ Pie Chart
 
 <img src="charts/Total_Sales_by_Fat_Content.png" width="450">
 
@@ -24,29 +24,29 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Bar Chart
 
-![Total Sales by Item Type](charts/Total_Sales_by_Item_Type.png)
+<img src="charts/Total_Sales_by_Item_Type.png" width="450">
 
 3] **Fat Content by Outlet for Total Sales:**
 - Objective: Compare total sales across different outlets segmented by fat content.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Stacked Column Chart
 
-![Fat Content by Outlet for Total Sales](charts/Fat_Content_by_Outlet_for_Total_Sales.png)
+<img src="charts/Fat_Content_by_Outlet_for_Total_Sales.png" width="450">
 
 4] **Total Sales by Outlet Establishment:**
 - Objective: Evaluate how the age or type of outlet establishment influences total sales.
 - Chart Type: Line Chart
 
-![Total Sales by Outlet Establishment](charts/Total_Sales_by_Outlet_Establishment.png)
+<img src="charts/Total_Sales_by_Outlet_Establishment.png" width="450">
 
 5] **Sales by Outlet Size:**
 - Objective: Analyze the correlation between outlet size and total sales.
 - Chart Type: Donut/ Pie Chart
 
-![Sales by Outlet Size](charts/Sales_by_Outlet_Size.png)
+<img src="charts/Sales_by_Outlet_Size.png" width="450">
 
 6] **Sales by Outlet Location:**
 - Objective: Assess the geographic distribution of sales across different locations.
 - Chart Type: Funnel Map
 
-![Sales by Outlet Location](charts/Sales_by_Outlet_Location.png)
+<img src="charts/Sales_by_Outlet_Location.png" width="450">
