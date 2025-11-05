@@ -47,6 +47,6 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 
 6] **Sales by Outlet Location:**
 - Objective: Assess the geographic distribution of sales across different locations.
-- Chart Type: Funnel Map
+- Chart Type: Bar Chart
 
 <img src="charts/Sales_by_Outlet_Location.png" width="450">
