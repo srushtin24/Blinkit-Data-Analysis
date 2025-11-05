@@ -19,12 +19,33 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 
 <img src="charts/Total_Sales_by_Fat_Content.png" width="450">
 
+~ Low-Fat items dominate sales (~65%), while Regular-Fat items contribute ~35%.
+~ Across all outlet tiers, Low-Fat products consistently outperform Regular-Fat items, indicating consumer preference for healthier options.
+
+✔ Business Implication:
+Increase inventory, visibility, and promotions for Low-Fat product lines.<br>
+
+
 2] **Total Sales by Item Type:**
 - Objective: Identify the performance of different item types in terms of total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Bar Chart
 
 <img src="charts/Total_Sales_by_Item_Type.png" width="450">
+
+~ Top-selling categories:
+  -Fruits & Vegetables (~178K)
+  -Snack Foods (~175K)
+  -Household Items (~136K)
+  -Frozen Foods (~119K)
+  -Dairy (~101K)
+
+~ Lowest performers:
+Seafood, Breakfast, Starchy Foods
+
+✔ Business Implication:
+Maintain inventory priority for high-selling categories.
+Reassess pricing, placement, or demand for lower-selling items.<br>
 
 3] **Fat Content by Outlet for Total Sales:**
 - Objective: Compare total sales across different outlets segmented by fat content.
