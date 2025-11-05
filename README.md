@@ -25,7 +25,7 @@ This project involved performing an in-depth analysis of Blinkit’s sales datas
 ✔ Business Implication:<br>
 Increase inventory, visibility, and promotions for Low-Fat product lines.<br><br>
 
-2] **Total Sales by Item Type:**
+## 2] **Total Sales by Item Type:**
 - Objective: Identify the performance of different item types in terms of total sales.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Bar Chart
@@ -46,7 +46,7 @@ Seafood, Breakfast, Starchy Foods<br>
 Maintain inventory priority for high-selling categories.<br>
 Reassess pricing, placement, or demand for lower-selling items.<br><br>
 
-3] **Fat Content by Outlet for Total Sales:**
+## 3] **Fat Content by Outlet for Total Sales:**
 - Objective: Compare total sales across different outlets segmented by fat content.
 - Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 - Chart Type: Stacked Column Chart
@@ -59,7 +59,7 @@ Reassess pricing, placement, or demand for lower-selling items.<br><br>
 ✔ Business Implication:<br>
 Target Tier-3 areas for expanding Low-Fat product lines.<br><br>
 
-4] **Total Sales by Outlet Establishment:**
+## 4] **Total Sales by Outlet Establishment:**
 - Objective: Evaluate how the age or type of outlet establishment influences total sales.
 - Chart Type: Line Chart
 
@@ -73,7 +73,7 @@ Target Tier-3 areas for expanding Low-Fat product lines.<br><br>
 Older outlets likely have strong brand trust and customer loyalty.<br>
 Newer stores require promotion, awareness, and product variety strategies.<br><br>
 
-5] **Sales by Outlet Size:**
+## 5] **Sales by Outlet Size:**
 - Objective: Analyze the correlation between outlet size and total sales.
 - Chart Type: Donut/ Pie Chart
 
@@ -86,7 +86,7 @@ Newer stores require promotion, awareness, and product variety strategies.<br><b
 Medium outlets are the sweet spot—balance of inventory & customer reach.<br>
 Large outlets may be under-optimized.<br><br>
 
-6] **Sales by Outlet Location:**
+## 6] **Sales by Outlet Location:**
 - Objective: Assess the geographic distribution of sales across different locations.
 - Chart Type: Bar Chart
 
